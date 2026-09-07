@@ -1,4 +1,4 @@
-# ✨ Shrishti - Our Beautiful 3-Year Journey 💖
+#  Shrishti - Our Beautiful 3-Year Journey 💖
 
 [![Live Site](https://img.shields.io/badge/Live%20Website-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://remarkable-speculoos-21347b.netlify.app/)
 [![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://react.dev/)
